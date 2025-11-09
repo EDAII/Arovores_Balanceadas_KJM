@@ -22,7 +22,7 @@ Link da apresentação:
 | -- | -- |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)  | Média |
 | [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)  | Difícil |
-| [1382. Balance a Binary Search Tree]([https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/](https://leetcode.com/problems/balance-a-binary-search-tree/description/?source=submission-ac))  | Média |
+| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)  | Média |
 | [315. Count of Smaller Numbers After Self]([https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)  | Difícil |
 
 ## Conclusões
